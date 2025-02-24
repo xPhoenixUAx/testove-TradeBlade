@@ -8,7 +8,7 @@
   --basic-text-transform: uppercase;
 }
 
-/* ОБЩИЕ СТИЛИ  */
+/* general  */
 body {
   font-family: "IBM Plex Sans", sans-serif;
 
@@ -111,7 +111,7 @@ img {
   height: 24px;
 }
 
-/* СТИЛИ ДЛЯ ХЕДЕРА  */
+/* header  */
 @media screen and (max-width: 1199px) {
   .site-header {
     margin-bottom: 40px;
@@ -149,7 +149,7 @@ img {
   height: 100%;
 }
 
-/* СТИЛИ ДЛЯ БУРГЕР МЕНЮ */
+/* menu */
 
 .burger-container {
   position: fixed;
@@ -296,7 +296,7 @@ img {
   box-shadow: 0px 0px 4px 0px var(--secondary-color);
 }
 
-/* СТИЛИ ДЛЯ ГЕРОЯ */
+/* hero */
 .hero-section {
   padding-bottom: 37px;
   margin-bottom: 24px;
@@ -314,7 +314,7 @@ img {
   margin-right: 53px;
 }
 
-/* анимация  */
+/* animation  */
 .animation-img {
   opacity: 0;
   animation: scaling-img 2000ms linear 1000ms infinite alternate;
@@ -586,7 +586,7 @@ img {
   color: rgb(255 255 255 / 30%);
 }
 
-/* СТИЛИ ДЛЯ ПРИБЫЛИ */
+/* profit */
 .profit-section {
   padding-top: 62px;
   padding-bottom: 48px;
@@ -768,7 +768,7 @@ img {
   }
 }
 
-/* СТИЛИ ДЛЯ "ПРОШЛЫХ СДЕЛОК" */
+/* trades */
 .past-trades-section {
   padding-top: 48px;
   padding-bottom: 53px;
@@ -942,7 +942,7 @@ img {
   justify-content: space-between;
 }
 
-/* СТИЛИ ДЛЯ "О КОМПАНИИ" */
+/* about */
 .about {
   padding-top: 80px;
   padding-bottom: 133px;
@@ -1123,7 +1123,7 @@ img {
   }
 }
 
-/* СТИЛИ ДЛЯ "ТАРИФЫ" */
+/* tatiffs */
 .tariffs {
   padding-top: 180px;
   padding-bottom: 44px;
@@ -1430,7 +1430,7 @@ img {
   color: rgba(3, 7, 24, 0.56);
 }
 
-/* СТИЛИ ДЛЯ "ЧАСТЫЕ ВОПРОСЫ" */
+/* faq */
 .common-questions {
   padding-top: 56px;
   padding-bottom: 54px;
@@ -1544,7 +1544,7 @@ img {
   height: 100%;
 }
 
-/* СТИЛИ ДЛЯ ФУТЕРА */
+/* footer */
 .footer {
   position: relative;
 
